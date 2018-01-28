@@ -1,5 +1,5 @@
 # Daily Corgo
-Get the top image from the last day from /r/Corgo sent to your email.
+Get the top image from the last day from /r/Corgi sent to your email.
 
 ## Instructions
 1. Supply the API keys needed to the environment
